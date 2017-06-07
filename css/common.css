@@ -1,0 +1,47 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent
+}
+
+a:active,
+a:hover {
+    outline: 0
+}
+
+li {
+    list-style-type: none;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+font-family: 'PingFang SC',
+'Lantinghei SC',
+"SimHei";
